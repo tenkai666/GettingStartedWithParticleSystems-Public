@@ -2,7 +2,7 @@
 
 public class TimeManager : MonoBehaviour
 {
-    public GameObject particleSystem;
+    public new GameObject particleSystem;
 
     void Update()
     {
